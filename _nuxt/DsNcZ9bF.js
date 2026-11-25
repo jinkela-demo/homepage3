@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./Dfyab7Rd.js";import"./WmonRVQh.js";import{t as r}from"./Dw90o1RM.js";var i=e({__name:`projects`,setup(e){return(e,i)=>{let a=r;return t(),n(a,{locale:`zh`})}}});export{i as default};
